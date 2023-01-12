@@ -1,4 +1,4 @@
-![MasterHead](https://www.shutterstock.com/image-vector/infographics-charts-graphics-diagrams-on-260nw-177377594.jpg)
+![logo](https://github.com/abssinghal/abssinghal/blob/main/Abhishek_SInghal.png)
 <h1 align="center">Hi 👋, I'm Abhishek Singhal</h1>
 <h3 align="center">A passionate Software Developer and Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
