@@ -1,11 +1,11 @@
 ![logo](https://github.com/abssinghal/abssinghal/blob/main/Abhishek_SInghal.png)
 <h1 align="center">Hi 👋, I'm Abhishek Singhal</h1>
-<h3 align="center">A passionate Software Developer and Data Analyst from India</h3>
+<h3 align="center">A passionate Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
 - 🔭 I’m currently working in **LTIMindtree**
 
-- 🌱 I’m currently learning **PowerBi, Tableau, Excel, Python**
+- 🌱 I’m currently learning **Python,Tableau,Excel,PowerBi**
 
 - 📫 How to reach me **abssinghal@gmail.com**
 
